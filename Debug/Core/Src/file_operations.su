@@ -1,0 +1,14 @@
+file_operations.c:9:6:read_file_from_littlefs	136	static
+file_operations.c:60:6:HAL_SPI_TxCpltCallback	16	static
+file_operations.c:64:6:HAL_SPI_RxCpltCallback	16	static
+file_operations.c:68:6:nor_delay_us	16	static
+file_operations.c:79:6:nor_cs_assert	8	static
+file_operations.c:83:6:nor_cs_deassert	8	static
+file_operations.c:87:6:nor_spi_tx	16	static
+file_operations.c:94:6:nor_spi_rx	16	static
+file_operations.c:102:6:__init_nor	8	static
+file_operations.c:116:5:_fs_read	32	static
+file_operations.c:126:5:_fs_write	32	static
+file_operations.c:136:5:_fs_erase	16	static
+file_operations.c:144:5:_fs_sync	16	static
+file_operations.c:149:6:list_files	440	static

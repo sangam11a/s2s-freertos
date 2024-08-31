@@ -1,0 +1,14 @@
+ADS7953SDBT.c:23:6:ADC_Enable	8	static
+ADS7953SDBT.c:35:6:ADC1_Enable	8	static
+ADS7953SDBT.c:47:6:ADC_Disable	8	static
+ADS7953SDBT.c:59:6:ADC1_Disable	8	static
+ADS7953SDBT.c:73:6:MANUAL_Select	24	static
+ADS7953SDBT.c:96:6:AUTO_2_Select_ADC	32	static
+ADS7953SDBT.c:136:6:AUTO_2_Select_ADC1	32	static
+ADS7953SDBT.c:174:6:ADC_AUTO_2_Program	16	static
+ADS7953SDBT.c:197:6:ADC1_AUTO_2_Program	16	static
+ADS7953SDBT.c:249:6:ADC_CombineData	48	static
+ADS7953SDBT.c:298:6:ADC_Conv_Data	40	static
+ADS7953SDBT.c:348:6:ADC1_Conv_Data	40	static
+ADS7953SDBT.c:387:6:ADC_Operate	24	static
+ADS7953SDBT.c:426:6:ADC_Temp_Conv	40	static

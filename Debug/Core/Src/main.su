@@ -1,0 +1,9 @@
+main.c:109:6:__init_littefs	16	static
+main.c:140:6:list_files_with_size	1104	static
+main.c:183:6:__init_storage	8	static
+main.c:188:6:HAL_TIM_PeriodElapsedCallback	40	static
+main.c:216:6:RUN_ADC2	16	static
+main.c:229:6:HAL_UART_RxCpltCallback	224	static
+main.c:249:5:main	64	static
+main.c:446:6:SystemClock_Config	88	static
+main.c:514:6:Error_Handler	4	static,ignoring_inline_asm

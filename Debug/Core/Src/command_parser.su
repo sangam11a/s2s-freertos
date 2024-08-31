@@ -1,0 +1,9 @@
+command_parser.c:10:6:parser	8	static
+command_parser.c:14:6:create_empty_files	520	static
+command_parser.c:37:6:truncate_text_file	24	static
+command_parser.c:51:6:truncate_text_file1	16	static
+command_parser.c:62:6:track_read_seek_pointer	448	static
+command_parser.c:111:6:download_file_from_flash	168	static
+command_parser.c:222:6:perform_file_operations	736	static
+command_parser.c:250:6:parse_command	1112	static
+command_parser.c:568:5:receive_telecommand_rx	336	static

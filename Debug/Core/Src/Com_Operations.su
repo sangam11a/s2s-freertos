@@ -1,0 +1,11 @@
+Com_Operations.c:18:6:INIT_COM	8	static
+Com_Operations.c:53:6:COM_STATE	16	static
+Com_Operations.c:75:19:Verify_Checksum	32	static
+Com_Operations.c:101:9:COM_PACK_ACK	40	static
+Com_Operations.c:209:6:COM_EXTRACT_CMD	24	static
+Com_Operations.c:226:19:Parse_GS_Command	32	static
+Com_Operations.c:333:6:Turn_On_Power_Amp	8	static
+Com_Operations.c:338:6:Turn_Off_Power_Amp	8	static
+Com_Operations.c:350:6:COM_Transmit_Data	104	static
+Com_Operations.c:691:6:COM_Transmit	384	static
+Com_Operations.c:834:9:MAKE_CRC	296	static
